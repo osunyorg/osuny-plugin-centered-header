@@ -29,7 +29,7 @@ Enfin, importer le style dans `assets/sass/main.sass`.
 
 ## Exemples 
 
-- [https://prototype.frenchcraftguild.osuny.site](https://prototype.frenchcraftguild.fr/fr/)
+- https://prototype.frenchcraftguild.fr/fr/
 
 <img width="1440" height="786" alt="image" src="https://github.com/user-attachments/assets/52ef58f5-4939-4cdb-a2e6-2f787939bd25" />
 
