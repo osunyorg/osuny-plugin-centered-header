@@ -2,6 +2,9 @@
 
 Ce plugin centre le menu principal en desktop.
 
+<img width="1440" height="731" alt="image" src="https://github.com/user-attachments/assets/65987ebc-4460-4fa5-acdb-6dc67b58f662" />
+
+
 ## Utilisation
 
 D'abord, importer le plugin dans le site.
